@@ -2,171 +2,171 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/vi/1-setup-environment/</loc>
+    <loc>http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/1-setup-environment/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-setup-environment/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/1-setup-environment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-setup-environment/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/1-setup-environment/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/</loc>
+    <loc>http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/2-cognito-authentication/</loc>
+    <loc>http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/2-cognito-authentication/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-cognito-authentication/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/2-cognito-authentication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-cognito-authentication/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/2-cognito-authentication/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/3-ses-email/</loc>
+    <loc>http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/3-ses-email/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-ses-email/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/3-ses-email/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-ses-email/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/3-ses-email/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/4-lambda-logic/</loc>
+    <loc>http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/4-lambda-logic/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-lambda-logic/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/4-lambda-logic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-lambda-logic/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/4-lambda-logic/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/5-api-gateway/</loc>
+    <loc>http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/5-api-gateway/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-api-gateway/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/5-api-gateway/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-api-gateway/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/5-api-gateway/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/6-website/</loc>
+    <loc>http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/6-website/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-website/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/6-website/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-website/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/6-website/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/7-testing-usage/</loc>
+    <loc>http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/7-testing-usage/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/7-testing-usage/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/7-testing-usage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/7-testing-usage/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/7-testing-usage/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/8-troubleshooting/</loc>
+    <loc>http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/8-troubleshooting/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/8-troubleshooting/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/8-troubleshooting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/8-troubleshooting/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/8-troubleshooting/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/9-additional-resources/</loc>
+    <loc>http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/9-additional-resources/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/9-additional-resources/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/9-additional-resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/9-additional-resources/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/9-additional-resources/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/10-cleanup-resources/</loc>
+    <loc>http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/10-cleanup-resources/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/10-cleanup-resources/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/10-cleanup-resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/10-cleanup-resources/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/10-cleanup-resources/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/categories/</loc>
+    <loc>http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/categories/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/tags/</loc>
+    <loc>http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/tags/"
+                href="http://localhost:64174/AWS-FCJ-Workshop-NguyenSachHoang/vi/tags/"
                 />
   </url>
 </urlset>
