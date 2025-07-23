@@ -8,6 +8,8 @@ weight = 9
 
 ### 9.1. Tài liệu tham khảo
 
+- [Source Code](https://github.com/SachHoang/YouTube-Thumbnail-Creator-Feedback-Platform.git)
+
 - [AWS S3 Documentation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
 - [AWS Cognito Documentation](https://docs.aws.amazon.com/cognito/latest/developerguide/what-is-amazon-cognito.html)
 - [AWS Lambda Documentation](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
